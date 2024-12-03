@@ -1,0 +1,11 @@
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nielm\OneDrive\Desktop\Code 2023\C# Codes 2023 - BSIT Second Sem\Calculator\Calculator\obj\Debug\Calculator.pdb
